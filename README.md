@@ -1637,3 +1637,8 @@ Update Time, five active automations, webhooks.
   * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+
+## AI / ML APIs
+
+* [PixelAPI](https://pixelapi.dev) — AI image, video, audio, and 3D API. 100 free credits on signup (no credit card). Image generation from $0.001/image, background removal $0.010, upscaling $0.060, face restoration $0.005, plus 11 more tools. Free tier: 10 req/min, 100 credits.
